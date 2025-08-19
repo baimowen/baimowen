@@ -66,8 +66,4 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baimowen/baimowen/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baimowen/baimowen/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/baimowen/baimowen/output/pacman-contribution-graph.svg">
-</picture>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=baimowen&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
